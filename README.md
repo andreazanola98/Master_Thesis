@@ -13,4 +13,3 @@ In this thesis I proposed a new method based on a hybrid network, i.e. half biol
 to develop a neural network that shows adversarial robustness, capable of resisting to many different adversarial
 attacks. The biological part will be based on the hebbian and anti-hebbian neural dynamics, while the artificial
 one will be based on specialized neurons and probability.
-v
