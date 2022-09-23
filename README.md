@@ -1,4 +1,4 @@
-# Master_Thesis
+# Master Thesis
 Biological Neural Networks as Defense against Adversarial Attacks
 
 Abstract:
